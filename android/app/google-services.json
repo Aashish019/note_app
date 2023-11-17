@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "693516171663",
+    "project_id": "crudtutorial-ffaee",
+    "storage_bucket": "crudtutorial-ffaee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693516171663:android:2be3a6f612bd610b85f3fa",
+        "android_client_info": {
+          "package_name": "com.example.note_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJsVGQ-4jzuhq49tEThZ2p1DLsg0lOj3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
